@@ -24,7 +24,7 @@ tripulante:      ROS3D-afk
 mision_actual:   Ingeniería de Software
 estado:          en órbita activa
 especialidad:    [Inteligencia Artificial, Desarrollo Web, Visión por Computadora]
-ubicacion:       Huánuco, Perú 🇵🇪
+ubicacion:       Perú 🇵🇪
 objetivo:        "Lanzar soluciones que ayuden a las personas"
 ```
 
